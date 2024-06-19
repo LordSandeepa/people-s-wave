@@ -79,7 +79,7 @@ form.sign-in-form {
 }
 
 .input-field {
-  max-width: 320px;
+  max-width: 290px;
   width: 100%;
   margin-top: 10px;
   height: 55px;
@@ -88,6 +88,7 @@ form.sign-in-form {
   grid-template-columns: 15% 85%;
   padding: 0 0.4rem;
   position: relative;
+  padding-right: 30px;
 }
 
 .input-field i {
